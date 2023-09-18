@@ -1,4 +1,4 @@
-# Nolan Blevins Grant Proposal Generator
+# Grant Proposal Generator
 
 This repository contains a Python script that generates grant proposals using GPT-3.5 Turbo from OpenAI. The script utilizes various libraries for web scraping, XML parsing, and PDF handling. Below is an overview of the key components and functionalities of the project:
 
